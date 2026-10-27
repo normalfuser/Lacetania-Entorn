@@ -16,3 +16,4 @@ while hi_ha_canvis:
     n = n - 1
 
 print(qualificacions)
+# comentari
